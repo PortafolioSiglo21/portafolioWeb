@@ -1,4 +1,4 @@
-<img src="/logo_summit_0 (1).png" alt="My cool logo"/>
+<img src="/logo_summit_0_1.png" alt="My cool logo"/>
 
 #  Repositorio Portafolio de Titulo
 ### Sistema Gestion Tecnologica "Restaurante Siglo XXI"
